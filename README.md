@@ -1,3 +1,7 @@
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eray6421&theme=react&card_width=1000px&include_all_commits=true&show_icons=true) <br /><br />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eray6421&theme=react&langs_count=10&layout=compact)
+![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eray6421&theme=react)
+
 # 👋 Hello!
 
 I'm <span style="padding: 3px 8px; background: linear-gradient(135deg, #9020C0, #C02090); color: #FAFAFA; border-radius: 0px 7px 0px 7px">Eray#6421</span>:
@@ -8,7 +12,3 @@ I'm <span style="padding: 3px 8px; background: linear-gradient(135deg, #9020C0, 
 - 💻 a wannabe web-developer since 2017
 - 🎨 a wannabe graphic designer since 2018
 - 📍 a Bakuvian citizen since 2018 ([a wikiarticle about our wonderful capital city](https://en.wikipedia.org/wiki/Baku))
-
-<figure>
-  <embed src="https://wakatime.com/share/@cf94c2cd-430a-4d3e-8b97-3e06b57fb711/1aff5b32-fdf7-4664-b787-870e035380e0.svg"></embed>
-</figure>
