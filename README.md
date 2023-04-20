@@ -2,15 +2,15 @@
 
 <picture>
 <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Eray6421&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=react"
+    srcset="https://github-readme-stats.vercel.app/api?username=Eray6421&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=react"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Eray6421&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api?username=Eray6421&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
     
-<img src="https://github-readme-stats.vercel.app/api?username=Eray6421&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue" alt="Eray6421's GitHub Activity" width="50%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eray6421&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue" alt="Eray6421's GitHub Activity" width="50%" align="right" />
 </picture>
 
 <picture>
