@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/339514931277856778"><img src="https://lanyard.cnrad.dev/api/339514931277856778?bg=0A0A0A" alt="Eray6421's Discord Profile Widget" width="500px" align="right" /></a>
+<a href="https://discord.com/users/339514931277856778"><img src="https://lanyard.cnrad.dev/api/339514931277856778?bg=0A0A0A" alt="Eray's Discord Profile Widget" width="500px" align="right" /></a>
 
 <picture>
 <source 
@@ -28,7 +28,7 @@
 
 # 👋 Hello!
 
-I'm <span style="padding: 3px 8px; background: linear-gradient(135deg, #9020C0, #C02090); color: #FAFAFA; border-radius: 0px 7px 0px 7px">Eray#6421</span>:
+I'm <span style="padding: 3px 8px; background: linear-gradient(135deg, #9020C0, #C02090); color: #FAFAFA; border-radius: 0px 7px 0px 7px">Eray</span>:
 - 🇦🇿 an ethnically Turkic Azerbaijani since 2008 ([a wikiarticle about my folk](https://en.wikipedia.org/wiki/Azerbaijanis))
 - 🧑‍💼 a schooler since 2014
 - 🤡 a Discorder since 2016 ([visit my profile](https://www.discord.com/users/339514931277856778))
