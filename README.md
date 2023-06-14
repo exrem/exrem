@@ -2,28 +2,28 @@
 
 <picture>
 <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Eray6421&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=react"
+    srcset="https://github-readme-stats.vercel.app/api?username=erayreperit&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=react"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Eray6421&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api?username=erayreperit&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
     
-<img src="https://github-readme-stats.vercel.app/api?username=Eray6421&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue" alt="Eray6421's GitHub Activity" width="500px" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=erayreperit&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue" alt="Eray's GitHub Activity" width="500px" align="right" />
 </picture>
 
 <picture>
 <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eray6421&hide_border=true&theme=react"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erayreperit&hide_border=true&theme=react"
     media="(prefers-color-scheme: dark)"
 />
 <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eray6421&hide_border=true&theme=vue"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erayreperit&hide_border=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eray6421&hide_border=true&theme=vue" alt="Languages that Eray6421 Uses Most" width="500px" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayreperit&hide_border=true&theme=vue" alt="Languages that Eray Uses Most" width="500px" align="right" />
 </picture>
 
 # 👋 Hello!
