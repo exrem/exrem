@@ -1,5 +1,6 @@
 <div align="center">
 	<img src="README-tr.svg" width="768" height="960" alt="">
+    <br />
     <footer>
         <span>Bu sayfa şu dillerde mevcuttur:</span><br />
 

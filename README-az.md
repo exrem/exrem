@@ -1,5 +1,6 @@
 <div align="center">
 	<img src="README-az.svg" width="768" height="960" alt="">
+    <br />
     <footer>
         <span>Bu səhifəni həmçinin oxuya bilərsiniz:</span><br />
 

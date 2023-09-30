@@ -1,5 +1,6 @@
 <div align="center">
 	<img src="README.svg" width="768" height="960" alt="">
+	<br />
 	<footer>
     	<span>This page is also available in:</span><br />
 
