@@ -1,66 +1,25 @@
-<a href="https://discord.com/users/339514931277856778"><img src="https://lanyard.cnrad.dev/api/339514931277856778?bg=0A0A0A" alt="Eray's Discord Profile Widget" width="500px" align="right" /></a>
+<header style="text-align: center">
+    <b style="font-size: 2.5em">👋 Hello!</b><br />
+    <span style="font-size: 1.5em">and welcome to my github page! ^^</span>
+</header>
 
-<picture>
-<source 
-    srcset="https://github-readme-stats.vercel.app/api?username=erayreperit&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=react"
-    media="(prefers-color-scheme: dark)"
-/>
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=erayreperit&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-    
-<img src="https://github-readme-stats.vercel.app/api?username=erayreperit&count_private=true&custom_title=My%20GitHub%20Activity&hide_border=true&show_icons=true&theme=vue" alt="Eray's GitHub Activity" width="500px" align="right" />
-</picture>
+<main style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; margin: 1em; font-size: 1.2em; text-align: center">
+    <article style="display: flex; background: #16191d; min-width: 640px; width: 640px; height: 256px; max-height: 256px; border-radius: 16px">
+        <span style="display: flex; justify-content: center; align-items: center; padding: 16px; width: 50%; font-weight: bold; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box">I am a 14-years-old wannabe web-developer from Baku, Azerbaijan.</span>
+        <img src="./img/azerbaijan.png" style="width: 50%; object-fit: cover; border-radius: 0 16px 16px 0" />
+    </article>
+    <article style="display: flex; background: #16191d; min-width: 640px; width: 640px; height: 256px; max-height: 256px; border-radius: 16px">
+        <img src="./img/capybara.webp" style="width: 50%; object-fit: cover; border-radius: 16px 0 0 16px" />
+        <span style="display: flex; justify-content: center; align-items: center; padding: 16px; width: 50%; font-weight: bold; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box">Sometimes I build web-apps with React, Vue and Svelte.</span>
+    </article>
+    <article style="display: flex; background: #16191d; min-width: 640px; width: 640px; height: 256px; max-height: 256px; border-radius: 16px">
+        <span style="display: flex; justify-content: center; align-items: center; padding: 16px; width: 50%; font-weight: bold; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box">I love silly cats, capybaras and Killua Zoldyck.</span>
+        <img src="./img/sillycat.jpeg" style="width: 50%; object-fit: cover; border-radius: 0 16px 16px 0" />
+    </article>
+</main>
 
-<picture>
-<source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erayreperit&hide_border=true&theme=react"
-    media="(prefers-color-scheme: dark)"
-/>
-<source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=erayreperit&hide_border=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayreperit&hide_border=true&theme=vue" alt="Languages that Eray Uses Most" width="500px" align="right" />
-</picture>
+<footer style="text-align: center">
+    <span>This page is also available in:</span><br />
 
-# 👋 Hello!
-
-I'm <span style="padding: 3px 8px; background: linear-gradient(135deg, #9020C0, #C02090); color: #FAFAFA; border-radius: 0px 7px 0px 7px">Eray</span>:
-- 🇦🇿 an Azerbaijani since 2008 ([a Wikipedia article about my folk](https://en.wikipedia.org/wiki/Azerbaijanis))
-- 🧑‍💼 a schooler since 2014
-- 🤡 a Discorder since 2017 ([visit my profile](https://www.discord.com/users/339514931277856778))
-- 🕺 a wannabe YouTuber since 2017 ([visit my main channel](https://www.youtube.com/@atmosph))
-- 💻 a wannabe web-developer since 2017
-- 🎨 a wannabe graphic designer since 2018
-- 📍 a Bakuvian citizen since 2018 ([a Wikipedia article about our wonderful capital city](https://en.wikipedia.org/wiki/Baku))
-
-# Technologies I Use
-I had started coding at the age of 8, making an amateurish Discord bot using JavaScript and ready-made templates.
-Since then, I've been developing still using JS and TS.
-
-## Languages
-
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/-HTML-303030?logo=html5&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/-CSS-303030?logo=css3&logoColor=264DE4&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-JAVASCRIPT-303030?logo=javascript&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://img.shields.io/badge/-TYPESCRIPT-303030?logo=typescript&style=for-the-badge" /></a>
-
-## Frameworks
-<a href="https://en.wikipedia.org/wiki/Tailwind_CSS"><img src="https://img.shields.io/badge/-TAILWIND-303030?logo=tailwindcss&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Next.js"><img src="https://img.shields.io/badge/-NEXT-303030?logo=next.js&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Vue.js"><img src="https://img.shields.io/badge/-VUE-303030?logo=vue.js&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Nuxt.js"><img src="https://img.shields.io/badge/-NUXT-303030?logo=nuxt.js&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Svelte"><img src="https://img.shields.io/badge/-SVELTE-303030?logo=svelte&style=for-the-badge" /></a>
-
-## Libraries
-<a href="https://en.wikipedia.org/wiki/React_(software)"><img src="https://img.shields.io/badge/-REACT-303030?logo=react&logoColor=149ECA&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://img.shields.io/badge/-EXPRESS-303030?logo=express&style=for-the-badge" /></a>
-
-## Other
-<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://img.shields.io/badge/-NODE-303030?logo=node.js&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://img.shields.io/badge/-NPM-303030?logo=npm&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Figma_(software)"><img src="https://img.shields.io/badge/-FIGMA-303030?logo=figma&logoColor=FFFFFF&style=for-the-badge" /></a>
-<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/-VISUAL_STUDIO_CODE-303030?logo=visualstudiocode&logoColor=1F9CF0&style=for-the-badge" /></a>
+[Azerbaijani (azərbaycanca)](./README-az.md) • [French (français)](./README-fr.md) • [German (Deutsch)](./README-de.md) • [Italian (italiano)](./README-it.md) • [Japanese (日本語)](./README-ja.md) • [Russian (русский)](./README-ru.md) • [Spanish (español)](./README-es.md) • [Turkish (Türkçe)](./README-tr.md)
+<footer>
