@@ -6,7 +6,7 @@
         }
 
         header {
-        color: #333333;
+        color: #808080;
         text-align: center
         }
 
@@ -30,11 +30,12 @@
 
         article {
         display: flex;
-        background: #333333;
+        background: #cccccc;
         min-width: 640px;
         width: 640px;
         height: 256px;
         max-height: 256px;
+        border: 1px solid #333333;
         border-radius: 16px
         }
 
@@ -43,7 +44,7 @@
         justify-content: center;
         align-items: center;
         padding: 1em;
-        color: #cccccc;
+        color: #333333;
         width: 50%;
         font-weight: bold;
         box-sizing: border-box;
@@ -62,20 +63,6 @@
 
         article:nth-child(even) img {
         border-radius: 16px 0 0 16px
-        }
-
-        @media (prefers-color-scheme: dark) {
-        header {
-        color: #cccccc
-        }
-
-        article {
-        background: #cccccc
-        }
-
-        article span {
-        color: #333333
-        }
         }
     </style>
 
