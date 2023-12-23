@@ -4,13 +4,19 @@
   "description": "My GitHub profile.",
   "main": "index.js",
   "dependencies": {
+    "react": "^18.2.0",
     "satori": "^0.10.11"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc && node dist/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "typescript": "^5.3.3"
+  }
 }
