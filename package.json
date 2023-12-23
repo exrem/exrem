@@ -1,0 +1,16 @@
+{
+  "name": "exrem",
+  "version": "1.0.0",
+  "description": "My GitHub profile.",
+  "main": "index.js",
+  "dependencies": {
+    "satori": "^0.10.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
