@@ -1,11 +1,4 @@
-type Template = {
-  hello: string,
-  welcome: string
-}
-
-export const locales = ['az', 'en', 'tr'] as const
-export type Locale = typeof locales[number]
-export default {
+export default const Dictionary = {
   en: {
     hello: 'Hello!',
     welcome: 'and welcome to my github page! ^^'
@@ -18,4 +11,5 @@ export default {
     hello: 'Merhaba!',
     welcome: 'github sayfama hoş geldiniz!'
   }
-} as Record<Locale, Template>
+} as const
+export type Locale = keyof typeof Dictionary
