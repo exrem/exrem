@@ -10,25 +10,28 @@ async function GenerateSVG(locale) {
             justifyContent: 'center',
             alignItems: 'center',
             gap: '16px',
-            padding: '16px',
+            padding: '24px 16px',
             backgroundColor: 'white',
             backgroundImage: 'url(https://play.tailwindcss.com/img/grid.svg)',
-            minWidth: 480,
-            fontWeight: 900,
+            minWidth: 608,
+            maxWidth: 640,
+            fontWeight: 700,
             boxShadow: '0 0 8px black'
         } },
         React.createElement("span", { style: {
                 display: 'flex',
-                gap: '18px',
-                fontSize: '64px'
+                gap: '20px',
+                fontWeight: 900,
+                fontSize: '48px'
             } },
-            React.createElement("img", { src: 'https://em-content.zobj.net/source/apple/354/waving-hand_1f44b.png', width: 80 }),
+            React.createElement("img", { src: 'https://em-content.zobj.net/source/apple/354/waving-hand_1f44b.png', width: 64 }),
             dictionary.hello),
         React.createElement("span", { style: {
-                fontSize: '24px'
+                fontSize: '16px'
             } }, dictionary.welcome))), svg = await satori(React.createElement("div", { style: {
             display: 'flex',
-            padding: '16px'
+            padding: '16px',
+            fontFamily: locale === 'ja' ? 'Noto Serif JP' : 'Unbounded'
         } },
         React.createElement(Header, null)), options);
     writeFileSync(locale === 'en' ? 'README.svg' : `README-${locale}.svg`, svg);

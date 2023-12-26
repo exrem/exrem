@@ -1,4 +1,4 @@
-export const Locales = ['az', 'en', 'ru', 'tr'];
+export const Locales = ['az', 'en', 'ja', 'ru', 'tr'];
 export const Dictionary = {
     az: {
         hello: 'Salam!',
@@ -7,6 +7,10 @@ export const Dictionary = {
     en: {
         hello: 'Hello!',
         welcome: 'and welcome to my github page! ^^'
+    },
+    ja: {
+        hello: '今日は',
+        welcome: '私のギットハブページへようこそ!'
     },
     ru: {
         hello: 'Здравствуйте!',

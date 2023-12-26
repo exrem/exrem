@@ -3,7 +3,7 @@ type DictionaryEntry = {
   welcome: string
 }
 
-export const Locales = ['az', 'en', 'ru', 'tr'] as const
+export const Locales = ['az', 'en', 'ja', 'ru', 'tr'] as const
 export type Locale = typeof Locales[number]
 
 export const Dictionary: Record<Locale, DictionaryEntry> = {
@@ -14,6 +14,10 @@ export const Dictionary: Record<Locale, DictionaryEntry> = {
   en: {
     hello: 'Hello!',
     welcome: 'and welcome to my github page! ^^'
+  },
+  ja: {
+    hello: '今日は',
+    welcome: '私のギットハブページへようこそ!'
   },
   ru: {
     hello: 'Здравствуйте!',

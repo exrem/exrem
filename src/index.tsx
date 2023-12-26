@@ -14,30 +14,33 @@ async function GenerateSVG(locale: Locale) {
         justifyContent: 'center',
         alignItems: 'center',
         gap: '16px',
-        padding: '16px',
+        padding: '24px 16px',
         backgroundColor: 'white',
         backgroundImage: 'url(https://play.tailwindcss.com/img/grid.svg)',
-        minWidth: 480,
-        fontWeight: 900,
+        minWidth: 608,
+        maxWidth: 640,
+        fontWeight: 700,
         boxShadow: '0 0 8px black'
       }}>
         <span style={{
           display: 'flex',
-          gap: '18px',
-          fontSize: '64px'
+          gap: '20px',
+          fontWeight: 900,
+          fontSize: '48px'
         }}>
-          <img src='https://em-content.zobj.net/source/apple/354/waving-hand_1f44b.png' width={80} />
+          <img src='https://em-content.zobj.net/source/apple/354/waving-hand_1f44b.png' width={64} />
           {dictionary.hello}
         </span>
         <span style={{
-          fontSize: '24px'
+          fontSize: '16px'
         }}>{dictionary.welcome}</span>
       </div>
     ),
     svg = await satori(
       <div style={{
         display: 'flex',
-        padding: '16px'
+        padding: '16px',
+        fontFamily: locale === 'ja' ? 'Noto Serif JP' : 'Unbounded'
       }}>
         <Header />
       </div>,
