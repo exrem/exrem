@@ -1,5 +1,5 @@
 import { readFileSync } from 'fs';
-const DMSans = Buffer.from(readFileSync('./assets/fonts/DMSans-Regular.ttf', { encoding: 'binary' }), 'binary'), DMSansBlack = Buffer.from(readFileSync('./assets/fonts/DMSans-Black.otf', { encoding: 'binary' }), 'binary');
+const DMSans = Buffer.from(readFileSync('./assets/fonts/DMSans-Regular.otf', { encoding: 'binary' }), 'binary'), DMSansBlack = Buffer.from(readFileSync('./assets/fonts/DMSans-Black.otf', { encoding: 'binary' }), 'binary');
 export default {
     width: 512,
     height: 512,

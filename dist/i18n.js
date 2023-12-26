@@ -1,12 +1,16 @@
-export const locales = ['az', 'en', 'tr'];
-export default {
+export const Locales = ['az', 'en', 'ru', 'tr'];
+export const Dictionary = {
+    az: {
+        hello: 'Salam!',
+        welcome: 'github səhifəmə xoş gəlmişsiniz! ^^'
+    },
     en: {
         hello: 'Hello!',
         welcome: 'and welcome to my github page! ^^'
     },
-    az: {
-        hello: 'Salam!',
-        welcome: 'github səhifəmə xoş gəlmişsiniz! ^^'
+    ru: {
+        hello: 'Здравствуйте!',
+        welcome: 'добро пожаловать в мою страницу гитхаба! ^^'
     },
     tr: {
         hello: 'Merhaba!',

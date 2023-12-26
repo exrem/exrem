@@ -2,11 +2,11 @@ import React from 'react'
 import { writeFileSync } from 'fs'
 import satori from 'satori'
 
-import { default as i18n, locales, Locale } from './i18n.js'
+import { Dictionary, Locale, Locales } from './i18n.js'
 import options from './options.js'
 
 async function GenerateSVG(locale: Locale) {
-  const dictionary = i18n[locale],
+  const dictionary = Dictionary[locale],
     Header = () => (
       <div style={{
         display: 'flex',
@@ -44,9 +44,9 @@ async function GenerateSVG(locale: Locale) {
       options
     )
 
-  writeFileSync(locale == 'en' ? 'README.svg' : `README-${locale}.svg`, svg)
+  writeFileSync(locale === 'en' ? 'README.svg' : `README-${locale}.svg`, svg)
 }
 
-for (const locale of locales) {
+for (const locale of Locales) {
   GenerateSVG(locale)
 }
