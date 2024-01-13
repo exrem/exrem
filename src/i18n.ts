@@ -25,6 +25,6 @@ export const Dictionary: Record<Locale, DictionaryEntry> = {
   },
   tr: {
     hello: 'Merhaba!',
-    welcome: 'github sayfama hoş geldiniz!'
+    welcome: 'github sayfama hoş geldiniz! ^^'
   }
 }
