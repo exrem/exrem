@@ -17,7 +17,7 @@ export const Dictionary: Record<Locale, DictionaryEntry> = {
   },
   ja: {
     hello: '今日は',
-    welcome: '私のギットハブページへようこそ!'
+    welcome: '私のギットハブページへようこそ! ^^'
   },
   ru: {
     hello: 'Здравствуйте!',

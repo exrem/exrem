@@ -1,5 +1,8 @@
 # Dependencies
 node_modules
 
+# Distribution
+dist
+
 # macOS-specific files
 .DS_Store
