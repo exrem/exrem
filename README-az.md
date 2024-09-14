@@ -1,10 +1,11 @@
 <div align="center">
-	<img src="README-az.svg" alt="">
-    <br />
-    <footer>
-        <span>Bu səhifəni həmçinin:</span><br />
 
-[almanca (Deutsch)](./README-de.md) • [fransızca (français)](./README-fr.md) • [ingiliscə (English)](./README.md) • [ispanca (español)](./README-es.md) • [italyanca (italiano)](./README-it.md) • [rusca (русский)](./README-ru.md) • [türkcə (Türkçe)](./README-tr.md) • [yaponca (日本語)](./README-ja.md)<br/>
-        <span>oxuya bilərsiniz.</span>
-    </footer>
+[işim-gücüm yoxdur, əlimə almışam bu zadı, iş görürəm guya.](https://youtu.be/aBdBV9QIeQA?feature=shared&t=84)
+
+<hr />
+
+kimin ürəyi istəyir, bunu başqa dildə də oxuya bilər:
+
+[ingiliscə (english)](./README.md) • [türkcə (türkçe)](./README-tr.md)
+
 </div>
